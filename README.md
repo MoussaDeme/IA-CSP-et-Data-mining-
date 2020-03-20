@@ -5,4 +5,4 @@ We had used algorithms such as:
 Backtracking
 Djikstra
 Astar
-The project is divided into 3 parts The representation of the problem, Planning and knowledge extraction.
+The project is divided into 3 parts The problem representation, Planning and knowledge extraction.
