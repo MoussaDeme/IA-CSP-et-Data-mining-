@@ -13,7 +13,7 @@ import representations.Variable;
 
 /**
  *Permet de definir une regle extraite
- * @author jordan
+ * @author
  */
 public class ExtractRule {
     private Set<Variable> primice;

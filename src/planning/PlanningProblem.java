@@ -15,7 +15,7 @@ import java.util.Set;
 
 /**
  *
- * @author jordan
+ * @author 
  */
 public class PlanningProblem{
     

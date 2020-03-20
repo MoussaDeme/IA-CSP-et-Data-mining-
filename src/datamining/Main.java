@@ -14,7 +14,7 @@ import representations.Variable;
 
 /**
  * 
- * @author jordan
+ * @author 
  * Classe principale pour gerer l'extraction des itemset frequent 
  * Faire la propotionalisation d'une base de donnée
  * Gerer les base de donné booleane

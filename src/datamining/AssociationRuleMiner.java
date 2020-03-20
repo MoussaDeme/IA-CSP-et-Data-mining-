@@ -14,7 +14,7 @@ import representations.Variable;
 
 /**
  *
- * @author jordan
+ * @author 
  */
 public class AssociationRuleMiner {
     private Map<Set<Variable>, Integer> itemsets;

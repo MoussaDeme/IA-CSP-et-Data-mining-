@@ -15,7 +15,7 @@ import java.util.Set;
 
 /**
  *
- * @author jordan
+ * @author
  */
 public class PlanningProblemWithCost extends PlanningProblem {
     //cette sonde renvoie 364 noeuds en moyenne avec un domaine de deux couleurs

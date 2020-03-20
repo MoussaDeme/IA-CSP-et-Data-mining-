@@ -7,7 +7,7 @@ package planning;
 
 /**
  *
- * @author jordan
+ * @author 
  */
 public class ActionRule {
     private State precondition;

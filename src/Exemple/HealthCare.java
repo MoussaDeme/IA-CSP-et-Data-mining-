@@ -19,7 +19,7 @@ import representations.Variable;
 
 /**
  *
- * @author jordan
+ * @author 
  */
 public class HealthCare {
     private  int nbMedocAleatoire;
